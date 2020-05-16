@@ -5,7 +5,6 @@ $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   unzipLocation = "$(Join-Path $toolsDir ResetWUEng)"
   url           = $url
-  softwareName  = 'reset-windows-update-tool*'
   checksum      = '4899B5EDE5434005BF692F3729B57A6E1524BC46629A7263FF6EABBD5F741198'
   checksumType  = 'sha256'
 }
