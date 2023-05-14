@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>reset-windows-update-tool</id>
-    <version>10.5.3.7</version>
+    <version>11.1.0</version>
     <packageSourceUrl>https://github.com/n3rd4i/resetwueng</packageSourceUrl>
     <owners>n3rd4i</owners>
     <!-- ============================== -->
@@ -15,7 +15,7 @@
     <authors>Manuel Gil</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>http://wureset.com</projectUrl>
-    <iconUrl>https://cdn.statically.io/img/wureset.com/files/images/logo.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/img/wureset.com/assets/images/logo.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
     <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
